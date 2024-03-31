@@ -1,0 +1,23 @@
+1. A is thrice as good as workman as B and therefore is able to finish a job in 60 days less than B. Working together, they can do it in:
+A,20 days
+B,22.1/2 days
+C,25 days
+D,30 days
+sol
+A=x
+B=3x
+3x-x=60
+2x=60
+x=30days
+
+2.A can do a piece of work in 4 hours; B and C together can do it in 3 hours, while A and C together can do it in 2 hours. How long will B alone take to do it?
+A,8 hours
+B,10 hours
+C,12 hours
+D,24 hours
+sol
+A's 1 d = 1/4
+B + C 1 day= 1/3
+wd by A, B & C = 1/4 + 1/3 = 7/12
+wd by B = 7/12 - 1/2
+        = (7-6)/12 = 1/12
