@@ -1,0 +1,27 @@
+1.) P, Q and R can do a job in 20, 30 and 60 days respectively. In how many days can P do the job if he is assisted by Q and R every third day?
+
+      A. 11 days
+      B. 15 days
+      C. 17 days
+      D. 16 days
+      E. 18 days
+
+      Solution :      
+              LCM 20,30,60 = 60
+              Peff = 3
+              Qeff = 2
+              Reff = 1
+
+  3 + 3 + 6 + 3 + 3 + 6 + 3 + 3 + 6 + 3 + 3 + 6 + 3 + 3 + 6 = 15 days
+
+2.) In a factory, 20 people can make 20 toys in 15 days working 10 hours per day. Then, in how many days can 25 persons make 30 toys working 20 hr per day?
+
+A) 6 days
+B) 9 days
+C) 10 days
+D) 12 days
+E) 15 days
+
+        Solution :
+              20*15*10 / 10 = 25*20*x / 30
+              x = 9 
