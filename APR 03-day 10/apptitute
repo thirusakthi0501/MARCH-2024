@@ -1,0 +1,27 @@
+1. 4 men and 6 women can complete the work in 8 days. While 3 men and 7 women can complete the work in 10 days. In how many days 10 women will complete the work?
+       A.40 days
+       B.42 days
+       C.30 days
+       D.36 days
+
+      Sol
+4m+6w=1/8 
+ 3m+7w=1/10 
+12m+18w=3/8
+12m+28w=4/10
+10 w = 4/10 − 3/10
+= 1/40
+
+2. If 10 carpenters working 4 hours a day can make 320 chairs in 200 days, then number of chairs made by 16 carpenters in 32 days each working 6 hours in a day
+       A.120
+       B.122
+       C.123
+       D.124
+
+          Sol
+                N1 = 10, T1 = 4, D1 = 200, C1 = 320
+                N2 = 16, T2 = 6, D2 = 32, C2 = ?
+
+                10*4*200/320 = 16*6*32/C1
+                C2 = 16*6*32*320/10*4*200
+                C2 = 123
