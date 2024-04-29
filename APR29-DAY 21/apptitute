@@ -1,0 +1,30 @@
+Three pipes A, B and C can fill a tank from empty to full in 30 minutes, 20 minutes, and 10 minutes respectively.
+When the tank is empty, all the three pipes are opened. A, B and C discharge chemical solutions P,Q and R respectively. 
+What is the proportion of the solution R in the liquid in the tank after 3 minutes?
+A) 5/11
+B) 7/11
+C) 6/11
+D) 8/11
+
+sol
+A+B+C in 3 min  =3(1/30+1/20+1/10)
+                =(3×1/60)=(11/20)
+Part filled by C in 3 minutes = (3/2010)
+ratio=(3/10×20/11) 
+6/11
+
+A tank is filled by three pipes with uniform flow. 
+The first two pipes operating simultaneously fill the tank in the same time during which the tank is filled by the third pipe alone.
+The second pipe fills the tank 5 hours faster than the first pipe and 4 hours slower than the third pipe. Time required by the first pipe to fill the tank is
+A) 6 hours
+B) 15 hours
+C) 10 hours
+D) 30 hours
+
+sol
+1/A+1/(A-5)=1/(A-9)
+1/15+1/10=1/6
+1/6=1/6
+
+hence 15 hrs
+
