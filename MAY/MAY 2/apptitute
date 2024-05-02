@@ -1,0 +1,27 @@
+A B C D E F G H I J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+
+
+1.In a certain code, NEWYORK is written as 111, how is NEWJERSEY written in that code?
+
+a) 110
+b) 143
+c) 109
+d) 124
+sol
+NEWYORK---111(14+5+23+25+15+18+11)
+NEWJERSEY--124(14+5+23+10+5+18+19+5+25)
+
+
+2. In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code?
+(a) QDFHS 
+(b) SDFHS
+(c) SHFDQ
+(d) UJHFS
+sol
+MONKEY-- XDJMNL(LM-NO-MN-JK-DE-XY)
+TIGER--QDFHS(SR-HI-FG-DE-QR)
+
+
+
+
